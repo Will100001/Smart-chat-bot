@@ -1,3 +1,11 @@
+# Environment files
+.env
+config.yaml
+custom_config.yaml
+*.yaml
+customer_service.yaml
+assistant.yaml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
